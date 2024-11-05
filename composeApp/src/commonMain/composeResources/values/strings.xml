@@ -1,0 +1,14 @@
+<resources>
+  <string name="app_name">ADR Test Demo</string>
+  <string name="asker_cancel_description">Anuluj</string>
+  <string name="asker_nav_next">Dalej</string>
+  <string name="asker_nav_back">Wstecz</string>
+  <string name="asker_nav_finish">Zakończ</string>
+  <string name="welcome_button_start">Rozpocznij</string>
+  <string name="welcome_button_retry">Spróbuj ponownie</string>
+  <string name="result_button_share">Podziel się!</string>
+  <string name="result_button_tryagain">Jeszcze raz!</string>
+  <string name="result_score_result">Twój wynik to %1$s% z %2$d pytań.</string>
+  <string name="result_passed">Gratulacje! Zdałeś!</string>
+  <string name="result_failed">Niestety, nie zdałeś. Spróbuj ponownie.</string>
+</resources>

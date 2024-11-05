@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is the primary language used for Android app development?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Swift"
+        },
+        {
+          "id": "b",
+          "text": "Kotlin"
+        },
+        {
+          "id": "c",
+          "text": "Objective-C"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Kotlin is the primary language recommended by Google for Android development."
+    },
+    {
+      "question": "In iOS development, which language was primarily used before Swift?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Objective-C"
+        },
+        {
+          "id": "b",
+          "text": "C#"
+        },
+        {
+          "id": "c",
+          "text": "Kotlin"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Objective-C was the main language for iOS development before Swift was introduced by Apple in 2014."
+    },
+    {
+      "question": "What is Jetpack Compose used for in Android development?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Data storage"
+        },
+        {
+          "id": "b",
+          "text": "UI creation"
+        },
+        {
+          "id": "c",
+          "text": "Network requests"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Jetpack Compose is Android’s modern toolkit for building native UI."
+    },
+    {
+      "question": "Which framework allows code sharing between iOS and Android platforms in Kotlin?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Jetpack Compose"
+        },
+        {
+          "id": "b",
+          "text": "React Native"
+        },
+        {
+          "id": "c",
+          "text": "Kotlin Multiplatform Mobile (KMM)"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Kotlin Multiplatform Mobile (KMM) allows sharing code between iOS and Android using Kotlin."
+    },
+    {
+      "question": "What is the purpose of SwiftUI in iOS development?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Data persistence"
+        },
+        {
+          "id": "b",
+          "text": "Network operations"
+        },
+        {
+          "id": "c",
+          "text": "UI design"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "SwiftUI is used to create user interfaces in a declarative way for iOS applications."
+    },
+    {
+      "question": "Which of these is NOT a part of the Jetpack library in Android?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Navigation"
+        },
+        {
+          "id": "b",
+          "text": "ViewModel"
+        },
+        {
+          "id": "c",
+          "text": "CocoaPods"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "CocoaPods is a dependency manager for iOS, not part of Android Jetpack."
+    },
+    {
+      "question": "In Jetpack Compose, what is a Composable function?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "A function used for asynchronous calls"
+        },
+        {
+          "id": "b",
+          "text": "A function used to define UI components"
+        },
+        {
+          "id": "c",
+          "text": "A function for managing background tasks"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "A Composable function is used in Jetpack Compose to define UI components in a declarative way."
+    },
+    {
+      "question": "What is the primary purpose of Ktor in Kotlin Multiplatform Mobile?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Database management"
+        },
+        {
+          "id": "b",
+          "text": "Networking and HTTP client"
+        },
+        {
+          "id": "c",
+          "text": "UI rendering"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Ktor is a Kotlin framework for building HTTP clients and servers, often used in KMM for network operations."
+    },
+    {
+      "question": "Which tool is commonly used to manage dependencies in iOS projects?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Gradle"
+        },
+        {
+          "id": "b",
+          "text": "Maven"
+        },
+        {
+          "id": "c",
+          "text": "CocoaPods"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "CocoaPods is a dependency manager for Swift and Objective-C projects in iOS development."
+    },
+    {
+      "question": "What does the LiveData class in Android do?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Manages database interactions"
+        },
+        {
+          "id": "b",
+          "text": "Observes data changes for UI updates"
+        },
+        {
+          "id": "c",
+          "text": "Performs network requests"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "LiveData is a lifecycle-aware component that holds data and allows UI components to observe changes in that data."
+    }
+  ]
+}

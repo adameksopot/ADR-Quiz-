@@ -1,0 +1,575 @@
+{
+  "questions": [
+    {
+      "question": "Poniższa ilustracja przedstawia, zgodnie z ADR, następujące opakowanie o dopuszczalnej masie 1250 kg:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "DPPL"
+        },
+        {
+          "id": "b",
+          "text": "big-bag"
+        },
+        {
+          "id": "c",
+          "text": "koli"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'DPPL' (Duży Pojemnik do Przewozu Luzem) jest poprawna, ponieważ opakowania o dopuszczalnej masie 1250 kg spełniające wymagania ADR są oznaczone właśnie jako DPPL."
+
+    },
+    {
+      "question": "Opakowanie z tworzywa sztucznego zawiera następujące oznakowanie:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oznacza, że może być używane do końca lutego 2027 roku"
+        },
+        {
+          "id": "b",
+          "text": "oznacza, że najpóźniej w lutym 2022 opakowanie powinno być dopuszczone przez właściwą władzę do dalszego użytkowania"
+        },
+        {
+          "id": "c",
+          "text": "liczba 22 oznacza rok produkcji, a liczba 2 wskazana strzałką oznacza, że opakowanie jest przeznaczone dla towarów klasy 2"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'oznacza, że może być używane do końca lutego 2027 roku' jest poprawna, ponieważ oznakowanie tego typu informuje o dacie końca użytkowania opakowania zgodnie z regulacjami ADR."
+    },
+    {
+      "question": "Przy przewozie w dużych pojemnikach do przewozu luzem (DPPL) towarów klasy 5.1, w dokumencie przewozowym zamieszczony jest zapis : zagrażający środowisku",
+      "answers": [
+        {
+          "id": "a",
+          "text": "należy wyznaczyć szczegółową trasę przewozu i zgłosić zamiar przewozu do doradcy DGSA"
+        },
+        {
+          "id": "b",
+          "text": "obowiązkowym wyposażeniem jednostki transportowej jest łopata, osłona otworów kanalizacyjnych o pojemnik do zbierania pozostałości"
+        },
+        {
+          "id": "c",
+          "text": "na opakowaniach powinien być umieszczony znak dla materiałów zagrażających środowisku"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'na opakowaniach powinien być umieszczony znak dla materiałów zagrażających środowisku' jest poprawna, ponieważ dla towarów zagrażających środowisku wymaga się odpowiedniego oznakowania opakowań zgodnie z ADR."
+    },
+    {
+      "question": "Wyłączenie spod przepisów ADR przewozu paliw ciekłych dotyczy:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewozu 100 litrów paliwa na jednostkę transportową w kanistrach"
+        },
+        {
+          "id": "b",
+          "text": "przewozu paliwa ciekłego w zbiornikach stałych tych pojazdów i przyczep, służących do ich napędu w ilości przekraczającej 2000 litrów na jednostkę transportową"
+        },
+        {
+          "id": "c",
+          "text": "przewozu paliwa ciekłego służącego do napędu pojazdu w zbiorniku stałym zamontowanym na przyczepie, którego pojemność całkowita nie przekracza 500 litrów"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'przewozu 100 litrów paliwa na jednostkę transportową w kanistrach' jest poprawna, ponieważ wyłączenia z przepisów ADR stosują się do małych ilości paliwa przewożonego na jednostkę transportową."
+    },
+    {
+      "question": "Co oznacza, według ADR ładunek całkowity?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ładunek pochodzący od jednego nadawcy dysponującego pojazdem lub kontenerem na prawach wyłaczności"
+        },
+        {
+          "id": "b",
+          "text": "ładunek pochodzący od wielu nadawców, wypełniający całą przestrzeń ładunkową"
+        },
+        {
+          "id": "c",
+          "text": "każdy ładunek przewożony w cysternie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'ładunek pochodzący od jednego nadawcy dysponującego pojazdem lub kontenerem na prawach wyłaczności' jest poprawna, ponieważ ADR definiuje ładunek całkowity jako ładunek nadawany przez jednego nadawcę z wyłącznym prawem do pojazdu lub kontenera."
+    },
+    {
+      "question": "Zapis w dokumencie przewozowym „ UN 1026 Dicyjan, 2.3 (2.1), (B/D)” oznacza, że przewożony jest gaz:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trujący"
+        },
+        {
+          "id": "b",
+          "text": "wyłączony spod przepisów ADR"
+        },
+        {
+          "id": "c",
+          "text": "wybuchowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'trujący' jest poprawna, ponieważ numer UN 1026 odpowiada gazowi trującemu zgodnie z klasyfikacją ADR."
+    },
+    {
+      "question": "Planowany jest przewóz towarów niebezpiecznych w kontenerze promem morskim. Który z dokumentów będzie wymagany już podczas przewozu drogą lądową?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świadectwo dopuszczenia kontenera do przewozu niektórych towarów niebezpiecznych"
+        },
+        {
+          "id": "b",
+          "text": "dokument przewozowy wraz z certyfikatem pakowania kontenera lub pojazdu"
+        },
+        {
+          "id": "c",
+          "text": "certyfikat zatwierdzenia naczepy do przewozu morskiego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'świadectwo dopuszczenia kontenera do przewozu niektórych towarów niebezpiecznych' jest poprawna, ponieważ podczas przewozu towarów niebezpiecznych wymagane jest świadectwo dopuszczenia kontenera do przewozu zgodnie z ADR."
+    },
+    {
+      "question": "Do klasy 7 według ADR należą:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiały żrące"
+        },
+        {
+          "id": "b",
+          "text": "materiały promieniotwórcze"
+        },
+        {
+          "id": "c",
+          "text": "gazy zapalne"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'materiały promieniotwórcze' jest poprawna, ponieważ klasa 7 w klasyfikacji ADR obejmuje materiały promieniotwórcze."
+    },
+    {
+      "question": "Do klasy 8 według ADR należą:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiały wywołujące poprzedzenie chemiczne w kontakcie ze skórą"
+        },
+        {
+          "id": "b",
+          "text": "materiały ciekłe palne"
+        },
+        {
+          "id": "c",
+          "text": "materiały odrażające"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'materiały wywołujące poprzedzenie chemiczne w kontakcie ze skórą' jest poprawna, ponieważ klasa 8 według ADR obejmuje materiały żrące, które mogą wywoływać reakcje chemiczne w kontakcie ze skórą."
+    },
+    {
+      "question": "Przepisy dotyczące ochrony towarów niebezpiecznych według Działu 1.10 Umowy ADR:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nakazuje wyposażenie pojazdów w GPS"
+        },
+        {
+          "id": "b",
+          "text": "wymagają potwierdzenia przez nadawcę tożsamości kierowców przed wydaniem towarów do transportu"
+        },
+        {
+          "id": "c",
+          "text": "nakazują uczestnictwo przy przewozie towarów niebezpiecznych dużego ryzyka dodatkowej osoby w zakresie ochrony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'ochronę towarów klasy 7 – materiałów promieniotwórczych' jest poprawna, ponieważ Dział 1.10 ADR obejmuje przepisy dotyczące ochrony towarów klasy 7 ze względu na ich szczególne wymagania bezpieczeństwa."
+    },
+    {
+      "question": "Do klasy 6.2 według ADR należą:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiały zakaźne"
+        },
+        {
+          "id": "b",
+          "text": "materiały ciekłe palne"
+        },
+        {
+          "id": "c",
+          "text": "materiały trujące"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'materiały zakaźne' jest poprawna, ponieważ klasa 6.2 według ADR obejmuje substancje i przedmioty, które mogą powodować zakażenie, co oznacza, że ich transport wymaga szczególnej uwagi i przestrzegania zasad bezpieczeństwa."
+    },
+    {
+      "question": "Przewóz w sztukach przesyłek oznacza:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewóz w cysternach"
+        },
+        {
+          "id": "b",
+          "text": "przewóz gazu w butlach"
+        },
+        {
+          "id": "c",
+          "text": "każdy przewóz towarów niebezpiecznych"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'przewóz gazu w butlach' jest poprawna, ponieważ przewóz w sztukach przesyłek odnosi się do transportu towarów w wyodrębnionych jednostkach, takich jak butle z gazem, które są klasyfikowane jako materiały niebezpieczne."
+    },
+    {
+      "question": "Przez które z przedstawionych poniżej tuneli dozwolony jest przewóz towaru niebezpiecznego w sztukach przesyłek UN 1202 i kodzie ograniczeń przewozu przez tunele (D/E):",
+      "answers": [
+        {
+          "id": "a",
+          "text": "każdy tunel"
+        },
+        {
+          "id": "b",
+          "text": "tunel oznakowany znakiem"
+        },
+        {
+          "id": "c",
+          "text": "tunel nieoznakowany"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'tunel nieoznakowany' jest poprawna, ponieważ przewóz towarów niebezpiecznych o kodzie ograniczeń D/E jest dozwolony w tunelach, które nie są oznaczone specjalnymi znakami zakazu."
+    },
+    {
+      "question": "Wyłączenie dotyczące przewozu gazów obejmują:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wszystkie gazy nietrujące i niepalne"
+        },
+        {
+          "id": "b",
+          "text": "gazy znajdujące się w zbiornikach paliwowych pojazdu, służące do jego napędu"
+        },
+        {
+          "id": "c",
+          "text": "wszystkie gazy znajdujące się w certyfikowanych opakowaniach o pojemności poniżej 20 litrów"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'gazy znajdujące się w zbiornikach paliwowych pojazdu, służące do jego napędu' jest poprawna, ponieważ te gazy są wyłączone z przepisów dotyczących przewozu towarów niebezpiecznych."
+    },
+    {
+      "question": "Co powinien zrobić kierowca przed przystąpieniem do przewozu sztuk przesyłek z towarami niebezpiecznymi oznakowanymi w podany sposób:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprawdzić czy ładunek jest załadowany tak, aby strzałki były skierowane do góry"
+        },
+        {
+          "id": "b",
+          "text": "sprawdzić czy ładunek jest załadowany tak, aby strzałki były skierowane w lewo"
+        },
+        {
+          "id": "c",
+          "text": "sprawdzić czy ładunek jest załadowany tak, aby strzałki były skierowane do dołu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'sprawdzić czy ładunek jest załadowany tak, aby strzałki były skierowane do góry' jest poprawna, ponieważ strzałki na opakowaniach towarów niebezpiecznych wskazują kierunek, w którym należy je transportować."
+    },
+    {
+      "question": "Poniżej przedstawiona nalepka ostrzegawcza oznacza, że:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jest trujący klasy 3"
+        },
+        {
+          "id": "b",
+          "text": "stwarza zagrożenie zatruciem"
+        },
+        {
+          "id": "c",
+          "text": "w kontakcie ze skórą grozi poparzeniem chemicznym"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'w kontakcie ze skórą grozi poparzeniem chemicznym' jest poprawna, ponieważ nalepka ostrzegawcza informuje o substancjach, które mogą powodować oparzenia chemiczne."
+    },
+    {
+      "question": "Przedstawiany znak oznacza, że:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosowany jest zawsze z nalepką 4.3"
+        },
+        {
+          "id": "b",
+          "text": "informuje o zagrożeniu poparzeniem chemicznym"
+        },
+        {
+          "id": "c",
+          "text": "stosowany jest do oznakowania sztuk przesyłek zawierających baterie litowe"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'stosowany jest do oznakowania sztuk przesyłek zawierających baterie litowe' jest poprawna, ponieważ ten znak informuje o specyficznych wymaganiach dotyczących transportu baterii litowych."
+    },
+    {
+      "question": "Palety z workami, opakowania zbiorcze:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powinny być oznakowane napisem 'opakowanie zbiorcze'"
+        },
+        {
+          "id": "b",
+          "text": "powinny być załadowane tak, aby worki były ułożone poprzecznie, w celu ich łatwego przeliczenia"
+        },
+        {
+          "id": "c",
+          "text": "nie wymagają oznakowania jeżeli zawierają towary niebezpieczne klasy 6.1"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'powinny być oznakowane napisem 'opakowanie zbiorcze'' jest poprawna, ponieważ opakowania zbiorcze muszą być oznaczone, aby zapewnić ich identyfikowalność i bezpieczeństwo."
+    },
+    {
+      "question": "Do klasy 2 według ADR zalicza się:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gazy trujące"
+        },
+        {
+          "id": "b",
+          "text": "materiały zakaźne"
+        },
+        {
+          "id": "c",
+          "text": "materiały w podwyższonej temperaturze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'gazy trujące' jest poprawna, ponieważ klasa 2 według ADR obejmuje gazy, w tym gazy trujące i niebezpieczne."
+    },
+    {
+      "question": "Umowa ADR reguluje:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "każdy transport towarów niebezpiecznych"
+        },
+        {
+          "id": "b",
+          "text": "transport morski towarów niebezpiecznych"
+        },
+        {
+          "id": "c",
+          "text": "przewóz drogowy towarów niebezpiecznych w ruchu międzynarodowym"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'przewóz drogowy towarów niebezpiecznych w ruchu międzynarodowym' jest poprawna, ponieważ umowa ADR dotyczy wyłącznie transportu drogowego tych towarów."
+    },
+    {
+      "question": "Przedstawiona nalepka ostrzegawcza oznacza, że:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jest to materiał rozszczepialny"
+        },
+        {
+          "id": "b",
+          "text": "stwarza zagrożenie wybuchem w kontakcie z wodą"
+        },
+        {
+          "id": "c",
+          "text": "stwarza zagrożenie rozkładem egzotermicznym w podwyższonej temperaturze"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'stwarza zagrożenie wybuchem w kontakcie z wodą' jest poprawna, ponieważ nalepka ostrzegawcza wskazuje na substancje, które mogą reagować niebezpiecznie z wodą."
+    },
+    {
+      "question": "Obowiązkiem kierowcy pojazdu przed załadunkiem towarów niebezpiecznych jest:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porównanie zawartości kontenera z certyfikatem pakowania kontenera"
+        },
+        {
+          "id": "b",
+          "text": "w każdym przypadku uziemienie jednostki transportowej"
+        },
+        {
+          "id": "c",
+          "text": "sprawdzenie, czy w pojeździe znajdują się wymagane gaśnice"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'sprawdzenie, czy w pojeździe znajdują się wymagane gaśnice' jest poprawna, ponieważ kierowca musi upewnić się, że sprzęt gaśniczy jest dostępny przed transportem towarów niebezpiecznych."
+    },
+    {
+      "question": "Które z wymienionych dokumentów wymagane są podczas przewozu 5 bębnów stalowych o pojemności 200 litrów każdy, zawierających olej napędowy UN 1202?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kopia umów specjalnych"
+        },
+        {
+          "id": "b",
+          "text": "dokument przewozy zawierający zapis: UN 1202 olej napędowy, 3, III, 5 bębnów, ilość 1000 litrów, kategoria transportowa 3"
+        },
+        {
+          "id": "c",
+          "text": "dokument przewozy zawierający zapis"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'dokument przewozy zawierający zapis: UN 1202 olej napędowy, 3, III, 5 bębnów, ilość 1000 litrów, kategoria transportowa 3' jest poprawna, ponieważ wymaga się dokumentacji zawierającej szczegółowe informacje o przewożonym towarze niebezpiecznym."
+    },
+    {
+      "question": "Jakie czynności należy wykonać przed rozpoczęciem przewozu towarów niebezpiecznych, aby zapewnić ich bezpieczny transport?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgłosić Policji trasę przewozu"
+        },
+        {
+          "id": "b",
+          "text": "obniżyć ciśnienie w ogumieniu w celu zwiększenia przyczepności"
+        },
+        {
+          "id": "c",
+          "text": "sztuki przesyłek zawierające materiały niebezpieczne powinny być umocowane za pomocą odpowiednich urządzeń np. pasów spinających, przegród lub burt przesuwanych"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'sztuki przesyłek zawierające materiały niebezpieczne powinny być umocowane za pomocą odpowiednich urządzeń np. pasów spinających, przegród lub burt przesuwanych' jest poprawna, ponieważ odpowiednie mocowanie ładunku jest kluczowe dla bezpieczeństwa transportu."
+    },
+    {
+      "question": "Zapis w dokumencie przewozowym 'UN 1223 nafta, 3, III' oznacza, że przewożony jest materiał:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalny ciekły klasy 3"
+        },
+        {
+          "id": "b",
+          "text": "żrący"
+        },
+        {
+          "id": "c",
+          "text": "stały zapalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź 'zapalny ciekły klasy 3' jest poprawna, ponieważ zapis 'UN 1223 nafta, 3, III' wskazuje, że przewożony materiał jest cieczą zapalną klasy 3."
+    },
+    {
+      "question": "Przedstawiony znak oznacza:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosowany zawsze z nalepką nr 1"
+        },
+        {
+          "id": "b",
+          "text": "stosowany w klasie 6.1"
+        },
+        {
+          "id": "c",
+          "text": "powinien być umieszczony w taki sposób, aby był dobrze widoczny dla osób otwierających lub wchodzących do jednostki transportowej cargo fumigowanej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'powinien być umieszczony w taki sposób, aby był dobrze widoczny dla osób otwierających lub wchodzących do jednostki transportowej cargo fumigowanej' jest poprawna, ponieważ ten znak ma na celu ostrzeganie osób przed otwarciem kontenera."
+    },
+    {
+      "question": "Wskaż ilość towarów jaka może być przewożona w jednostce transportowej bez obowiązku znakowania pojazdu tablicami barwy pomarańczowej:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "1050 litów cieczy klasy 3"
+        },
+        {
+          "id": "b",
+          "text": "bez ograniczeń w przypadku próżnych nieoczyszczonych butli LPG"
+        },
+        {
+          "id": "c",
+          "text": "350 kg materiału stałego 2 kategorii transportowej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "answerExplanation": "Odpowiedź '1050 litów cieczy klasy 3' jest poprawna, ponieważ ta ilość przekracza próg, powyżej którego wymagane jest oznakowanie transportu."
+    },
+    {
+      "question": "Jakie informacje powinny być umieszczone w dokumencie przewozowym przy przewozie towarów niebezpiecznych dla których wymagana jest temperatura kontrolowana?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiał stopiony"
+        },
+        {
+          "id": "b",
+          "text": "uwaga gorący"
+        },
+        {
+          "id": "c",
+          "text": "wartość temperatury kontrolowanej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'wartość temperatury kontrolowanej' jest poprawna, ponieważ dokument przewozowy musi zawierać szczegółowe informacje o wymaganej temperaturze dla towarów niebezpiecznych."
+    },
+    {
+      "question": "Na podstawie zapisów w dokumencie przewozowym wskaż który z podanych gazów jest palny:",
+      "answers": [
+        {
+          "id": "a",
+          "text": "UN 1050 chlorowodór, 2.3 (8), (C/D)"
+        },
+        {
+          "id": "b",
+          "text": "UN 1027 cyklopropan, 2.1, (B/D)"
+        },
+        {
+          "id": "c",
+          "text": "UN 1046 hel sprężony, 2.2 (E)"
+        }
+      ],
+      "correctAnswerId": "b",
+      "answerExplanation": "Odpowiedź 'UN 1027 cyklopropan, 2.1, (B/D)' jest poprawna, ponieważ cyklopropan jest gazem palnym klasy 2.1."
+    },
+    {
+      "question": "Kto powinien dostarczyć przewoźnikowi dokument przewozowy?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierowca"
+        },
+        {
+          "id": "b",
+          "text": "specjalista BHP"
+        },
+        {
+          "id": "c",
+          "text": "nadawca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "answerExplanation": "Odpowiedź 'nadawca' jest poprawna, ponieważ to nadawca towaru jest odpowiedzialny za dostarczenie wszystkich wymaganych dokumentów przewozowych."
+    }
+  ]
+}
